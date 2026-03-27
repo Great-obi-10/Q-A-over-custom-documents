@@ -82,4 +82,4 @@ This project is open-source and available under the MIT License.
 👨‍💻 Author
 
 Great Obi
-AI & Machine Learning Developer | Cybersecurity Professional | Python Enginee
+AI & Machine Learning Developer | Cybersecurity Professional | Python Engineer
