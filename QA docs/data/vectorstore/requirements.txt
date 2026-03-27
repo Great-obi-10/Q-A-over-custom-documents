@@ -1,0 +1,7 @@
+langchain
+openai
+faiss-cpu
+pypdf
+sentence-transformers
+python-dotenv
+tqdm
